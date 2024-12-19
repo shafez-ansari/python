@@ -7,17 +7,12 @@ num2 = 6.3
 sum = num1 + num2
 
 # Display the sum
-print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
+print('The sum of {0} and {1} is {2}'.format(num1, num2, sum)
 
 a = int(1)
 b = int(2.8)
 c = int("3")
 print(a)
 print(b)
-print(c)
-
-x = float(1)
-y = float(2.8)
-z = float("3")
-w = float("4.2")
+print(c
 

@@ -9,9 +9,9 @@ sum = num1 + num2
 # Display the sum
 print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
 
-x = int(1)
-y = int(2.8)
-z = int("3")
-print(x)
-print(y)
-print(z)
+a = int(1)
+b = int(2.8)
+c = int("3")
+print(a)
+print(b)
+print(c)
